@@ -1,0 +1,15 @@
+packages/*
+packages/**/*
+
+build/*
+build/**/*
+
+bin/*
+bin/**/*
+
+obj/*
+obj/**/*
+
+*.tmp
+*.suo
+*.csproj.user
